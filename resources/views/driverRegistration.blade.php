@@ -1,4 +1,5 @@
-
+@extends('test')
+@section('content')
  <div id='wrap'>
         <div id="page-heading">
             <ol class="breadcrumb">
